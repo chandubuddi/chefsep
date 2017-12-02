@@ -1,5 +1,8 @@
-file "home/ubuntu/file2" do
-content " this is my 3rd modified file second file"
+file '/home/ubuntu/file2' do
+content 'this is my 3rd modified file second file'
+mode '600'
+owner 'root'
 end
+
 
 
