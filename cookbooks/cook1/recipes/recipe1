@@ -1,0 +1,5 @@
+file "home/chandru/file2" do
+content " this is my second file"
+end
+
+
