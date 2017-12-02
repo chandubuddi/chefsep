@@ -1,4 +1,4 @@
-file "home/chandru/file2" do
+file "home/ubuntu/file2" do
 content " this is my 3rd modified file second file"
 end
 
