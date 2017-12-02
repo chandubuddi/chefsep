@@ -1,5 +1,5 @@
 file "home/chandru/file2" do
-content " this is my modified file second file"
+content " this is my 2nd modified file second file"
 end
 
 
