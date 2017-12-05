@@ -1,11 +1,11 @@
 #
-# Cookbook Name:: cook1
+# Cookbook Name:: cook2
 # Recipe:: default
 #
 # Copyright 2017, YOUR_COMPANY_NAME
 #
 # All rights reserved - Do Not Redistribute
-file "home/ubuntu/cook1" do
-content "this is the first file "
+#
+file '/home/ubuntu/file1' do 
+content 'file1'
 end
-
